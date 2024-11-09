@@ -3,7 +3,7 @@ layout: home
 # 首页部分元素定制
 blog:
   name: "栗生的知识库"
-  motto: 做真实的自己
+  motto: 了解真相，获得自由
   inspiring:
     - 停下来看看沿途的风景吧~
     - 别忘了出发的理由
